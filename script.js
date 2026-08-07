@@ -77,10 +77,12 @@ Ben buradayım. Ve her zaman da olacağım. Yeter ki iste.`,
     modalDay.textContent = `Gün ${day}`;
     modalText.textContent = unlocked ? dayNotes[day] : lockedMessage;
     modalOverlay.classList.add("active");
+    document.body.style.overflow = "hidden";
   }
 
   function closeModal() {
     modalOverlay.classList.remove("active");
+    document.body.style.overflow = "";
   }
 
   for (let day = 1; day <= totalDays; day++) {
