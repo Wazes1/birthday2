@@ -194,6 +194,8 @@ body {
   font-size: 1rem;
   line-height: 1.7;
   color: var(--brown-soft);
+  white-space: pre-line;
+  text-align: left;
 }
 
 /* ---- Footer / Fotoğraf ---- */
