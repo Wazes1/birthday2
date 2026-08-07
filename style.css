@@ -195,3 +195,20 @@ body {
   line-height: 1.7;
   color: var(--brown-soft);
 }
+
+/* ---- Footer / Fotoğraf ---- */
+.footer {
+  width: 100%;
+  padding: 0 1.5rem 3rem;
+  display: flex;
+  justify-content: center;
+}
+
+.footer-photo {
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 3px solid var(--card-bg);
+  box-shadow: 0 0 0 1px var(--card-border);
+}
