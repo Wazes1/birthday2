@@ -205,8 +205,8 @@ body {
 }
 
 .footer-photo {
-  width: 90px;
-  height: 90px;
+  width: 90px !important;
+  height: 90px !important;
   object-fit: cover;
   border-radius: 50%;
   border: 3px solid var(--card-bg);
