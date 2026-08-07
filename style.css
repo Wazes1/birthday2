@@ -137,9 +137,10 @@ body {
   inset: 0;
   background-color: rgba(74, 55, 40, 0.45);
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   justify-content: center;
-  padding: 1.5rem;
+  padding: 2rem 1rem;
+  overflow-y: auto;
   opacity: 0;
   visibility: hidden;
   transition: opacity 0.2s ease, visibility 0.2s ease;
@@ -159,7 +160,6 @@ body {
   border: 1px solid var(--card-border);
   border-radius: 20px;
   padding: 2.5rem 1.75rem 2rem;
-  text-align: center;
   transform: translateY(10px);
   transition: transform 0.2s ease;
 }
@@ -186,6 +186,7 @@ body {
   font-weight: 600;
   font-size: 1.6rem;
   margin-bottom: 1rem;
+  text-align: center;
 }
 
 .modal-text {
