@@ -41,7 +41,23 @@ Bu olay şehir dışına gitme isteğini bana hatırlattı. Evet, ayrı olabilir
 O yüzden ilk notumda sana şunu söylemek istedim:
 
 Ben buradayım. Ve her zaman da olacağım. Yeter ki iste.`,
-    2: `Gün 2 için not buraya gelecek.`,
+    2: `Bugün senin gücünden bahsetmek istiyorum bitanem.
+
+Ama dışardan görünen gücünden değil, onu herkes görüyo zaten. Burnumu ne hale soktugunu gördük :(. İstediğinde sert olabildiğini herkes biliyo zaten. Ben daha çok, belki senin bile kendinde bazen fark etmediğin taraflarını seviyorum.
+
+Yorulduğunda devam edebilmeni. Bir şey istediğin gibi gitmediğinde üzülüp yine de tekrar deneyebilmeni. Bazen çok fazla şey üstüste gelirken bile bir şekilde kendini toparlamanı. Her zaman güçlü görünmek zorunda olmadığın halde, yaşadığın şeylere rağmen devam edebilmeni.
+
+Bence bir insanın güçlü olması hiç üzülmemesi ya da hiç kırılmaması değil zaten. Tam tersine, bir şeyin kendisini gerçekten üzdüğü halde ertesi gün tekrar kalkabilmesidir güçlü olmak. Korktuğu halde bir şeyin üzerine gidebilmektir. Yorulduğunda biraz durup sonra yeniden devam edebilmektir. Sende sevdiğim güç de tam olarak böyle.
+
+Bazen kendine karşı çok acımasız oluyorsun bitanem. Nelerin üstesinden geldin. O kadar çok şey yapıp başarmana rağmen özellikle bolu olayında kendini olduğundan daha yetersiz gördüğünü hissediyorum. Belki o anlarda, belki de bu tercih haftasinda, sen dışardan göremiyorsun ama ben dışardan baktığımda gayet iyi görüyorum.
+
+Yaşadığımız şeylerde de bunu çok gördüm. İnsanların karşı çıkması, onaylanmamak, aile baskıları, araya giren şeyler, belirsizlikler. Bunların hiçbiri kolay şeyler değil. Senin de yorulduğun, korktuğun ya da artık uğraşmak istemediğin zamanlar oldu belkide. Ama yine de burdasın. Ve bence bunun değerini bazen yeterince bilmiyorsun.
+
+Sende asıl sevdiğim güç bücürüm, vurabilmekten çok yorulduğunda devam edebilmen. Herşeyi tek başına çözebilmen değil. Bazen korkarken, üzülürken, kafan karışmışken bile yeniden deneyebilmen.
+
+Bilmiyorum belki sen kendine baktığında bunların hiçbirini düşünmüyorsundur. Ama ben sana baktığımda sadece güçlü bir kadın görmüyorum. Düştüğünde tekrar kalkabilen, sevdiği şeyler için mücadele eden ve bütün bunların arasında hala içinde çok güzel, çok hassas bir taraf taşıyan birini görüyorum.
+
+Ve o tarafını gördüğüm için kendimi çok şanslı hissediyorum. Seni çok seviyorum.`,
     3: `Gün 3 için not buraya gelecek.`,
     4: `Gün 4 için not buraya gelecek.`,
     5: `Gün 5 için not buraya gelecek.`,
