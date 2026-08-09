@@ -58,7 +58,25 @@ Sende asıl sevdiğim güç bücürüm, vurabilmekten çok yorulduğunda devam e
 Bilmiyorum belki sen kendine baktığında bunların hiçbirini düşünmüyorsundur. Ama ben sana baktığımda sadece güçlü bir kadın görmüyorum. Düştüğünde tekrar kalkabilen, sevdiği şeyler için mücadele eden ve bütün bunların arasında hala içinde çok güzel, çok hassas bir taraf taşıyan birini görüyorum.
 
 Ve o tarafını gördüğüm için kendimi çok şanslı hissediyorum. Seni çok seviyorum.`,
-    3: `Gün 3 için not buraya gelecek.`,
+    3: `Bugün sende ilk fark ettiğim şeyden bahsetmek istiyorum bitanem.
+
+Aslında “ilk gördüğümde şunu düşündüm” diye tek bir an seçmek biraz zor. Çünkü insan birini tanıdıkça ilk zamanlarda dikkat ettiği şeylerin anlamı da değişiyor. O zaman normal gelen bazı şeyler, şimdi düşününce çok daha farklı geliyor bana.
+
+Ama sende ilk dikkatimi çeken şey hayata karşı olan çabandı. Bunu çok söyledim. Biliyosun. Ama daha önce söylemediğim bişey söylicem burda. Gülerken dengen şaşıyo ve bazen sendeliyosun.
+
+Bunu konuşmaya başlamadan birkaç hafta önce fark etmiştim. Ve çok tatlı gelmişti. Bilmiyorum belki farkinda değilsin ne yaptığının. Ama benim aklımda kalan cok özel bişey. Aslinda çok da büyük bişey değil. Sanırım tam da bu yüzden seviyorum bunu. Seni tanımadan önce bile sana ait küçücük bir şey dikkatimi çekmiş.
+
+O zaman seni şu anki kadar tanımıyordum tabii.Neleri sevdiğini, neye üzüldüğünü, sinirlendiğinde nasıl olduğunu, heyecanlandığında nasıl konuştuğunu, kafana bir şey taktığında ne kadar fazla düşündüğünü bilmiyordum. Sadexe karşımdaki 156 kızı görüyodum. Ama şimdi daha fazla şey görüyorum. Arkasında cok daha fazlasını görüyorum. Dilan böyle dedi şu yüzden böyle baktı şu sebeple vesaire. Artık göz teması kurmadiginda alınmıyorum. Artık sahte gülüşlerine neden böyle yaptı demiyorum. Ya da neden telefona bakıyo sürekli 🙄. Bu senin ayıbın gerçi eşek.
+
+Mesela gülerken dengeni kaybetmen o zaman sadece dikkatimi çeken küçük bir şeydi. Şimdi ise seni hatırlatan, sana ait olduğunu bildiğim bir şey.
+
+Seni sevmeye ve zamanla  aşık olmaya başlayınca başta dikkatimi çeken küçük şeyler, zamanında kusur sandığım şeyler, sende sevdiğim en güzel ayrıntılara dönüştü.
+
+Şimdi seni düşündüğümde aklıma sadece yüzün veya sesin gelmiyor. Yaptığın küçücük hareketler geliyor. Bazı kelimeleri söyleyişin, bir şeye gülerken verdiğin tepki, sinirlendiğinde yaptığın şeyler, utanınca veya heyecanlanınca değişen halin çok tatlı. Özellikle utanman. Özellikle. Utaninca çok tatlı oluyosun. Normalde gıcık bişeysin.
+
+Zamanla seni sen yapan bu küçük şeyleri ezberlemiş gibi hissediyorum. Bazen anlamakta zorluk çektiğim de oluyor tabiki.
+
+Bu durumun güzel yanı da başlangıçta sadece sende dikkatimi çeken küçük bişey vardı. Şimdi ise sende bakip da sevmediğim bi ayrıntı bulmak zor geliyor.`,
     4: `Gün 4 için not buraya gelecek.`,
     5: `Gün 5 için not buraya gelecek.`,
     6: `Gün 6 için not buraya gelecek.`,
