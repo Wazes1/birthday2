@@ -77,7 +77,21 @@ Seni sevmeye ve zamanla  aşık olmaya başlayınca başta dikkatimi çeken kü�
 Zamanla seni sen yapan bu küçük şeyleri ezberlemiş gibi hissediyorum. Bazen anlamakta zorluk çektiğim de oluyor tabiki.
 
 Bu durumun güzel yanı da başlangıçta sadece sende dikkatimi çeken küçük bişey vardı. Şimdi ise sende bakip da sevmediğim bi ayrıntı bulmak zor geliyor.`,
-    4: `Gün 4 için not buraya gelecek.`,
+    4: `Bugün biraz ritmimizden bahsetmek istiyorum. Evet biz. 😛
+
+Koşarken her zaman aynı tempoda gitmiyorsun. Bazen hızlanıyorsun, bazen yavaşlıyorsun. Bazen çok rahat hissettiğin kilometreler oluyor, bazen normalde kolay gelen bir tempo bile zorlayabiliyor. Gerçi çok da hızlı koşamıyorsun ama neysseeee 😛. Ama bunların hiçbiri koşunun kötü geçtiği anlamına gelmiyor. Sen ağlasan bile öyle. Hepsi o yolun bir parçası.Sanırım ilişkimiz de biraz böyle bitanem.
+
+Bizim de her zaman aynı ritimde olduğumuz söylenemez. Bazen aşk dolu oluyoruz, bazen birileri birilerinin varlığına gıcık oluyor 🙄. Bazen birbirimize çok yakın olduğumuz, her şeyin çok kolay ve güzel hissettirdiği zamanlarımız oldu. Günde 8 saat konuştuk. Bazen durumlar yüzünden yavaşlamak zorunda kaldık. Bazen görüşemedik, bazen konuşmak istediğimiz kadar konuşamadık, bazen dışarıdaki şeyler ikimizi de yordu. Bazen ayrı kaldık diye mentalimiz kötü etkilendi. Bazen de hayat vuru bizi. Bu hafta olduğu gibi.Ama hiçbirinde durduğumuzu düşünmedim.Sadece ritmimiz değişti. Hayata ve koşullara ayak uydurduk.
+
+Bizim de her günümüz mükemmel olmak zorunda değil. Her zaman aynı heyecanla, aynı enerjiyle, aynı yakınlıkta olamayabiliriz. Bazen varlığımıza gıcık da olabiliriz 🙄. Hayat bazen araya girecek. Yorulacağız, işlerimiz olacak, belki yine mesafeler girecek aramıza. Ama benim için önemli olan hızımız değil. Aynı yöne gitmeye devam etmemiz.
+
+Çünkü seninle ilgili istediğim şey mümkün olduğunca hızlı bir şekilde bir yerlere varmak değil. Yolun kendisini seninle yaşamak istiyorum. Bazen koşarak, bazen yürüyerek, bazen durup biraz soluklanarak. Bazen de birbirimizin kafasına tekme atarak.
+
+Ne kadar hızlı ilerlediğimizin, ne kadar sık görüşebildiğimizin ya da bazı dönemlerde ne kadar zorlandığımızın çok bir önemi yok. Her an her hafta bişeyleri aşmak bişeyleri başarmak zorunda değiliz. Her önümüze çıkan sorunu o hafta hemen halledemeyebiliriz. Bazen yavaşlarız, sendeleriz, uzun sürer bazı şeyler, ama bu geriye gitmek değil. Yeter ki sonunda yine birbirimize doğru gidiyor olalım. Yeter ki istiyor ve çabalıyor olalım.
+
+Belki bizim ritmimiz bazen garip olacak. Bazen çok hızlanacağız, bazen hayat bizi yavaşlatacak. Ama ben seninle aynı ritmi bulmaya çalışmaktan hiç sıkılmak istemiyorum. Çünkü benim için mesele ne kadar hızlı gittiğimiz değil. Yanımda kimin olduğu.
+
+Ve ben, yol ne kadar uzun olursa olsun, yanımda seni istiyorum. Bir ömür.`,
     5: `Gün 5 için not buraya gelecek.`,
     6: `Gün 6 için not buraya gelecek.`,
     7: `Gün 7 için not buraya gelecek.`,
