@@ -92,7 +92,7 @@ Ne kadar hızlı ilerlediğimizin, ne kadar sık görüşebildiğimizin ya da ba
 Belki bizim ritmimiz bazen garip olacak. Bazen çok hızlanacağız, bazen hayat bizi yavaşlatacak. Ama ben seninle aynı ritmi bulmaya çalışmaktan hiç sıkılmak istemiyorum. Çünkü benim için mesele ne kadar hızlı gittiğimiz değil. Yanımda kimin olduğu.
 
 Ve ben, yol ne kadar uzun olursa olsun, yanımda seni istiyorum. Bir ömür.`,
-    5:'Bugün senin biraz daha farklı bir tarafından bahsetmek istiyorum. Kemanından.
+    5: `Bugün senin biraz daha farklı bir tarafından bahsetmek istiyorum. Kemanından.
 
 Seni henüz gerçekten oturup keman çalarken dinleyemedim. kısa kısa duydum, anlattıklarından biliyorum ama karşına oturup hiçbir şey yapmadan sadece seni dinlediğim bir anımız olmadı. Ve garip bir şekilde bunu çok merak ediyorum. Kolunun kısa kalmasından dolayı kemanı düzgün çalamayaşını görmek istiyorum. Bana anlamadığım bir ton detay ve bilgi vermeni istiyorum. Bana keman ailesini anlamama rağmen tekrar tekrar anlatmanı istiyorum. 
 
