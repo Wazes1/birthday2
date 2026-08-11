@@ -92,7 +92,23 @@ Ne kadar hızlı ilerlediğimizin, ne kadar sık görüşebildiğimizin ya da ba
 Belki bizim ritmimiz bazen garip olacak. Bazen çok hızlanacağız, bazen hayat bizi yavaşlatacak. Ama ben seninle aynı ritmi bulmaya çalışmaktan hiç sıkılmak istemiyorum. Çünkü benim için mesele ne kadar hızlı gittiğimiz değil. Yanımda kimin olduğu.
 
 Ve ben, yol ne kadar uzun olursa olsun, yanımda seni istiyorum. Bir ömür.`,
-    5: `Gün 5 için not buraya gelecek.`,
+    5: Bugün senin biraz daha farklı bir tarafından bahsetmek istiyorum. Kemanından.
+
+Seni henüz gerçekten oturup keman çalarken dinleyemedim. kısa kısa duydum, anlattıklarından biliyorum ama karşına oturup hiçbir şey yapmadan sadece seni dinlediğim bir anımız olmadı. Ve garip bir şekilde bunu çok merak ediyorum. Kolunun kısa kalmasından dolayı kemanı düzgün çalamayaşını görmek istiyorum. Bana anlamadığım bir ton detay ve bilgi vermeni istiyorum. Bana keman ailesini anlamama rağmen tekrar tekrar anlatmanı istiyorum. 
+
+Çünkü insanları sadece konuşurken tanımıyoruz. Bazen yaptıkları şeylerin içinde de onları görüyoruz. Bir şeyi nasıl sevdiklerinde, ne kadar sabır gösterdiklerinde de görüyoruz. Keman da senin için böyle bişey.
+
+Seni çalarken nasıl biri olduğunu merak ediyorum. Çok ciddi mi oluyorsun, etrafındaki her şeyi unutuyor musun, yanlış bir notaya basınca ya da ortam cok sessiz olunca kendini tutamayıp gülüyor musun(muhtemelen), sevdiğin bir yere gelince yüzündeki ifade değişiyor mu bilmiyorum. Bunları görmek istiyorum. Seni bir müziğin içinde de tanımak istiyorum.
+
+Belki bir gün hiçbir şey söylemeden karşında otururum. Hatta belki değil. Sözün vardı. Yeni hatırladım😛.Sen çalarsın, ben sadece seni izlerim. Hatta muhtemelen parçadan çok sana odaklanırım 😛. Sana aldığım reçineyi de kullanırsın belkii.
+
+Ama o anın nasıl hissettireceğini gerçekten merak ediyorum. Sevdiğim insanın sevdiği bir şeyi yaparken nasıl göründüğünü görmek bana çok özel geliyor. Bir gün senden benim için bir parça çalmanı istiyorum. Belki ben de eşlik ederim. Sözle değil 🙄 merak etme. Bi çalgıyla belki.
+
+Mükemmel çalmanı da istemiyorum. Yanlış yaparsan baştan al, ortasında gülmeye başlarsan gül, unutursan tekrar dene. Benim için önemli olan parçanın kusursuz olması değil zaten. Onu senin çalıyor olman. Çalıcağın şeyleri yüksek ihtimalle bilemicem bile.
+
+Belki o gün sana hangi parçayı istediğimi de söylerim. Belki beraber seçeriz. Belki önden sipariş veririm öğrenmen için. Ama bildiğim tek bir şey var:
+
+Bazı insanları konuşurken, bazılarını susarken tanıyoruz. Ben seni bir de müziğinin içinde tanımak istiyorum .`,
     6: `Gün 6 için not buraya gelecek.`,
     7: `Gün 7 için not buraya gelecek.`,
     8: `Gün 8 için not buraya gelecek.`,
