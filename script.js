@@ -109,7 +109,27 @@ Mükemmel çalmanı da istemiyorum. Yanlış yaparsan baştan al, ortasında gü
 Belki o gün sana hangi parçayı istediğimi de söylerim. Belki beraber seçeriz. Belki önden sipariş veririm öğrenmen için. Ama bildiğim tek bir şey var:
 
 Bazı insanları konuşurken, bazılarını susarken tanıyoruz. Ben seni bir de müziğinin içinde tanımak istiyorum .`,
-    6: `Gün 6 için not buraya gelecek.`,
+    6: `Bugün biraz yazdıklarından, daha doğrusu şiirlerinden bahsetmek istiyorum.
+
+Şiir yazıyor olman beni çok etkilemişti. Sanki çok cringe gelicek ama ruh eşimi bulmuş gibi hissetmiştim. O an içimde, zamanında anlam veremediğim bir his, heyecan benzeri ama daha farklı bir his oluşmuştu. Ne demek şiir yazıyosunn. Şiir yazan ve üstüne bu kadar güzel olan birisini bulmak çok şanslı hissettirmişti. Şiirlerini gördükten sonra da dünyanın en şanslı insanı olduğum kanaatine varmistim.
+
+Şiirlerini okurken sadece yazdığın kelimeleri okumuyordum gibi geliyor bana. Biraz seni okuyorumdum sanki. Aşırı duyarlı birisi olduğunu katliam için yazdığın şiirden anlamıştım. Aşırı çekici gelmişti.
+
+Çünkü normalde insan her düşündüğünü, her hissettiğini olduğu gibi anlatamıyor. Bazen söylemek istediğimiz şeyler kafamızda kalıyor, bazen doğru kelimeyi bulamıyoruz, bazen de anlatmak istemiyoruz. Ama senle ilk tanıştığımızda şiirlerinin bir kısmını okuduğumda çok şey görmüştüm. Kelime seçimlerinde, bir şeyi anlatış biçiminde, bazen bir cümlenin altında bıraktığın anlamda senden bir şeyler gördüm.
+
+Belki sen yazarken bunları düşünmüyorsun bile. Belki sadece o an aklına gelen şeyi yazıyorsun. Ama ben okurken ister istemez “Bunu yazarken ne düşünüyordu?”, “Bunu neden böyle anlattı?” diye düşündüm. Ve hoşuma gitti. Çünkü seni sadece benimle konuşurken tanımak değil, kendi kendine kaldığında aklından geçen şeylerin bıraktığı izlerden de tanımak istiyorum.
+
+ Daha fazla düşünen, bazı şeylerin üzerinde daha fazla duran, hissettiğini doğrudan söylemek yerine başka bir şeyin arkasına saklayan bir tarafını görmüş gibi oldum. Ve bu benim çok hoşuma gitti. Sana ait bir şeyi okuyorum ve seni biraz daha anlamaya çalışıyorum.
+
+Bir de senin kelimelerle bir şey yaratabiliyor olmanı seviyorum. Kafanda olan, kimsenin göremediği bir şeyi birkaç satırla başka bir insanın hissedebileceği hale getiriyorsun. Benim kadar olmasa da 😏. Bence bu çok güzel bir şey.
+
+Umarım şiir yazma hobini uğraşını hiçbir zaman bırakmazsın. Umarım devam edersin. Umarım şiirini fark ederler. Şiirlerini dergilere göndermekten bahsetmiştin. Bu konuda seni sonuna kadar desteklemek için elimden geleni yapmak istiyorum. Sana ve şiirine inanıyorum.
+
+Belki bir gün yazdığın bütün şiirleri önüme koyup tek tek okumak isterim. Hangisini ne zaman yazdığını, ne düşünerek yazdığını, bazı kelimeleri neden özellikle seçtiğini sorarım. Muhtemelen seni soru yağmuruna tutarım. Özellikle belli bir tip şiirlerinde 🙄🙄. Ama gerçekten merak ederim.
+
+Çünkü şiirlerini okurken yalnızca yazdığın şeyi değil, o satırların arkasındaki seni de tanımaya çalışıyorum. Ve seni tanıdıkça, hakkında öğrenecek daha ne kadar çok şeyim olduğunu fark etmek hoşuma gidiyor.
+
+Seni konuşurken tanıyorum. Seni yanımdayken tanıyorum. Ama seni bir de yazdıklarının arasında tanımayı seviyorum.`,
     7: `Gün 7 için not buraya gelecek.`,
     8: `Gün 8 için not buraya gelecek.`,
     9: `Gün 9 için not buraya gelecek.`,
