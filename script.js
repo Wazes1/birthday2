@@ -130,7 +130,22 @@ Belki bir gün yazdığın bütün şiirleri önüme koyup tek tek okumak isteri
 Çünkü şiirlerini okurken yalnızca yazdığın şeyi değil, o satırların arkasındaki seni de tanımaya çalışıyorum. Ve seni tanıdıkça, hakkında öğrenecek daha ne kadar çok şeyim olduğunu fark etmek hoşuma gidiyor.
 
 Seni konuşurken tanıyorum. Seni yanımdayken tanıyorum. Ama seni bir de yazdıklarının arasında tanımayı seviyorum.`,
-    7: `Gün 7 için not buraya gelecek.`,
+    7: `Bugün seni biraz garip bir şekilde anlatmak istiyorum. Bir kitap olsaydın nasıl bir kitap olurdun diye düşündüm. Korku kitabı 😛.
+
+Bence ilk sayfalarından tamamen anlaşılabilen bir kitap olmazdın. Seni ilk tanıdığımda da böyleydi zaten. İlk bakışta gördüğüm bir sen vardı, sonra tanıdıkça onun altında başka taraflarını görmeye başladım. Farklı yönlerini gördüm.
+
+Başlangıcın merak uyandırırdı. İnsana devamını okuma isteği veren ama ileride neyle karşılaşacağını pek belli etmeyen bir başlangıç olurdu. Çünkü seninle ilgili de ilk zamanlarda böyle hissettim. Seni merak ettim. Ne düşündüğünü, bazı şeylere neden öyle tepki verdiğini, nasıl biri olduğunu daha fazla öğrenmek istedim.
+
+Sonra bazı sayfaların çok kolay okunurdu.
+Güldüğün, mutlu olduğun, heyecanlandığın zamanlar gibi. Özellikle yanımda saatlerce susmayıp konuştuğun benim de izledigim sayfalar.
+
+Bazı sayfalarınsa biraz daha dikkat isterdi.
+Belki sustuğun zamanlar. Bir şey olduğunda hemen anlatmadığın, kendi içinde düşündüğün zamanlar. İlk seferde anlayamadığım ama seni tanıdıkça anlamını daha iyi gördüğüm yerler. Sanırım seni tanırken en çok bunu öğrendim.Her şeyini ilk anda anlayamayacağımı. Çünkü insanları direkt anlayabildiğime, neler söylediklerini, niye söylediklerini bilebildiğime inanırım. Sende bu iş pek öyle olmadı. Bazen seni gerçekten anlamak için sadece söylediğin şeyi değil, söylemediğin şeyi de dinlemem gerektiğini anladım. Ve bu kötü bir şey değil. Tam tersine seni tanımayı güzel yapan şeylerden biri. Bazen seni anlamakta zorlansam da o anlarda daha da fazla anlamaya çalışıyorum. Bu aslında derin bi insan olduğunu gösteriyor. Ve seni tanımak, hergün seninle ilgili bilgiler öğrenmek, çok güzel bişey.
+
+
+Bazı kitapları bir kere okursun ve biter. Hikayesini öğrenirsin, kapağını kapatırsın ve bir daha dönmezsin. Sen öyle olmazdın. Bazı sayfalarını tekrar okumak isterdim. Bazı sayfalarına postit yapıştırmak isterdim. Bir yerde daha önce fark etmediğim küçücük bir ayrıntıyı ikinci okuyuşumda görüp Bunu nasıl fark etmemişim derdim. Bazı sayfaların gıcık ederdi. Bazen duygulandirir. Bazen güldürürdü. Bazı yerlerde Niye böyle yaptın şimdi diye söylenirdim. Ama kitabı kapatmazdım. Çünkü devamını merak ederdim. Belki en sevdiğim tarafı da bu olurdu. Sonunun henüz yazılmamış olması.
+
+Çünkü sen hala değişiyorsun, öğreniyorsun, büyüyorsun. Ben de seni tanımaya devam ediyorum. Şu an bildiğim senle birkaç yıl sonraki sen tamamen aynı olmayacak. Birlikte büyüyüp, öğrenip, deneyimliyoruz. Ve buna sahip olduğumuz için çok şanslı hissediyorum.`,
     8: `Gün 8 için not buraya gelecek.`,
     9: `Gün 9 için not buraya gelecek.`,
     10: `Gün 10 için not buraya gelecek.`,
