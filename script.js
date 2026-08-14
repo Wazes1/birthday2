@@ -146,7 +146,87 @@ Belki sustuğun zamanlar. Bir şey olduğunda hemen anlatmadığın, kendi için
 Bazı kitapları bir kere okursun ve biter. Hikayesini öğrenirsin, kapağını kapatırsın ve bir daha dönmezsin. Sen öyle olmazdın. Bazı sayfalarını tekrar okumak isterdim. Bazı sayfalarına postit yapıştırmak isterdim. Bir yerde daha önce fark etmediğim küçücük bir ayrıntıyı ikinci okuyuşumda görüp Bunu nasıl fark etmemişim derdim. Bazı sayfaların gıcık ederdi. Bazen duygulandirir. Bazen güldürürdü. Bazı yerlerde Niye böyle yaptın şimdi diye söylenirdim. Ama kitabı kapatmazdım. Çünkü devamını merak ederdim. Belki en sevdiğim tarafı da bu olurdu. Sonunun henüz yazılmamış olması.
 
 Çünkü sen hala değişiyorsun, öğreniyorsun, büyüyorsun. Ben de seni tanımaya devam ediyorum. Şu an bildiğim senle birkaç yıl sonraki sen tamamen aynı olmayacak. Birlikte büyüyüp, öğrenip, deneyimliyoruz. Ve buna sahip olduğumuz için çok şanslı hissediyorum.`,
-    8: `Gün 8 için not buraya gelecek.`,
+    8: `Bugün biraz aşktan bahsetmek istiyorum.
+
+Bu kelimeyi seninle konuştuğumuz zamanları düşündüm. Bana seni sevdiğini söylüyorsun ama bazen “aşk” dediğimiz şeyin bundan daha farklı, daha özel, daha kolay ayırt edilebilir bir his olması gerektiğini düşündüğünü de söylüyorsun. Sanki insan aşık olduğunda içinde yeni bir organ çıkacakmış gibi. Kalbin başka türlü atacak, dünya bir anda pembe olacak, fonda kemanlar çalmaya başlayacak falan. Belki gerçekten bazı insanlar böyle yaşıyordur, bilmiyorum. Ama ben aşkın tek bir hissi olduğuna pek inanmıyorum. Hatta zaman geçtikçe aşkın bir histen çok, bir insanın hayatının içine nasıl yerleştiğiyle ilgili olduğunu düşünmeye başladım. Çünkü sana karşı her gün aynı şeyi hissetmiyorum.
+
+Bazen seni gördüğümde içimde saçma bir heyecan oluyor. Bazen sadece yanında oturmak istiyorum. Bazen sana sarılmak istiyorum. Bazen seni sinir etmek istiyorum. Bunda baya başarılı olduğumu düşünüyorum 😛. Bazen bir şey olduğunda anlatmak istediğim ilk kişi sen oluyorsun. Bazen hiçbir şey olmuyor ve yine de seni düşünüyorum. Bazen seni çok özlüyorum. Bazen sen yanımdayken özlediğimi bile fark etmediğim bir şeyi bulmuşum gibi hissediyorum. Bazen de sana kızıyorum, anlamıyorum seni, hatta muhtemelen içimden bu kız niye böyle ya diyorum. Ama bütün bu farklı hallerin sonunda zihnim garip bir şekilde yine aynı yere dönüyor.
+
+Sana.
+
+Belki benim aşk tanımım tam olarak bu. Sürekli aynı yoğun duyguyu hissetmek değil. Değişen bütün duyguların içerisinde aynı insana yeniden yönelmek. Çünkü bir insanı sevdiğinde her saniye heyecandan ölmüyorsun. Hayat devam ediyor. Ders düşünüyorsun, antrenmana gidiyorsun, yoruluyorsun, sinirleniyorsun, saçma şeylere takılıyorsun, ailevi sorunlarla boğuşuyorsun, bazen hiçbir şey hissetmeden tavana bakıyorsun. Sonra günün herhangi bir yerinde küçücük bir şey oluyor.
+
+Yolda bir kedi görüyorum ve ilk aklıma gelen şey sen oluyorsun. Tatlı(?) ve şapşal.
+
+Hiçbir mantıklı bağlantısı bile olmuyor bazen. Gerçekten beynimin seni her şeye bağlamasıyla ilgili sorunlarım olabilir. Ama sanırım benim için mesele de biraz burada başlıyor. Çünkü sen artık sadece sevdiğim bir insan değilsin. Hayatımı algılama biçimimin içine karışmaya başladın. Bir yere giderken “buraya onunla gelmek güzel olurdu” diye düşünüyorum.
+Bir şey görünce sana göstermek istiyorum.
+Komik bir şey olduğunda nasıl güleceğini düşünüyorum. Bir konuda kafam karıştığında sen ne düşünürdün diye merak ediyorum. Gelecekle ilgili bir şey hayal ettiğimde bazen farkında bile olmadan seni de o hayalin içine koyuyorum.
+
+Kendi evime çıkmayı çok fazla istediğimi söylemiştim. Bunu her düşündüğümde artık sen aklıma gelmeye başladın. Birlikte ev hayatı yaşasak nasıl olurdu acaba. Onu düşünürken buluyorum kendimi bi anda. Erasmusa gitmek çok istiyorum. Eskiden de düşündüğüm yabancılık çekme, ortama ayak uyduramama maddi sıkıntıların yanına bi şey daha eklendi. Sen. 4 ay nasıl ayrı kalıcam yani oha. Bunu düşünürken buluyorum kendimi bi anda. Gelecek için çok şey istiyorum ve çok çalışmam gerekicek. Bunları düşünürken ya sana zaman ayıramazsam ve aramız açılırsa diye bi anda saçma şekilde kendimi anksiyete atağının içinde buluyorum. Dünyada gezip görmek istediğim yerleri (özellikle italya), seninle gitmek için düşünüyorum bi anda o tatilin en büyük parçası italya değil sen oldun artık kafamda haberin olsun.
+
+Ve bence beni en çok etkileyen şeylerden biri şu: Bunu bilinçli yapmıyorum. Seni şimdi düşüneyim demiyorum. Sen zaten oradasın. Belki aşkın özel tarafı da budur. Yeni ve daha önce hiç hissedilmemiş büyülü bir duygu olması gerekmiyordur. Belki aşk, zaten bildiğimiz duyguların tek bir insanda başka bir anlam kazanmasıdır.
+
+Özlemek mesela. Hayatımda başka insanları da özledim. Ama seni özlemek aynı değil.
+
+Merak etmek. Bir sürü insanı merak ettim.
+Ama gününün nasıl geçtiğini, moralinin neden düştüğünü, bugün ne düşündüğünü senin kadar merak ettiğim çok az insan oldu.
+
+Korkmak. Bir sürü şeyden korktum. Ama seni kaybetme düşüncesinin içimde bıraktığı şey çok başka.
+
+Mutlu olmak. Bir sürü güzel gün geçirdim. Ama brandium çıkışı otobüs beklerkenki şapsal hallerimiz gibi küçücük anların bile hafızamda bu kadar yer kaplamasını başka türlü açıklayamıyorum.
+
+Belki sen hala aşk denen şey nasıl bir şey diye düşünüyorsun. Belki bir gün cevabını bulacaksın. Belki de bulmayacaksın. Ve açıkçası senden bana bir gün dönüp evet sonunda buldum hissettim gibi bişey söylemeni beklemiyorum. Duymak güzel olurdu ama Benim için bana hangi kelimeyi söylediğinden daha değerli şeyler var. Bana nasıl baktığın. Yanımda nasıl olduğun. Zorlandığımızda yine de kalmayı seçmen.
+
+İnsanların onaylamamasına rağmen yine de benim için bizim için çabalaman. Benden fazla mobinge uğradın bu süreçte. Bu çok değerli ve mahcubiyet hissediyorum.
+
+Ailelerin, mesafenin, şartların, zamanın bazen bizi zorlamasına rağmen hala birbirimize dönmenin bir yolunu aramamız. Bunları düşününce aşk benim için çok daha anlaşılır oluyor. Çünkü aşkı sana baktığımda hissettiğim tek bir duygu olarak tarif edemem. Senin yanında hissettiğim güven de onun içinde. 
+
+Sana duyduğum özlem de.
+
+Senden etkilendiğim anlar da.
+
+Sana kızdığım zamanlar bile.
+
+Seni koruma isteğim.
+
+Sen mutlu olduğunda içimin rahatlaması.
+
+Canın yandığında hiçbir şey yapamasam bile yanında olmayı istemem.
+
+Hayatında güzel şeyler olduğunda senden bile fazla sevinebilme ihtimalim.
+
+Ve belki en önemlisi:
+
+Seni hayatımda istemem.
+
+Sadece bugün değil. Sadece ilişkimizin güzel olduğu günlerde değil. Sadece bana sevgi gösterdiğinde değil.
+
+Seni seni anlamakta zorlandığım günlerde de istiyorum.
+
+Seninle anlaşamadığım günlerde de. Bazen ikimizin de yorulduğu zamanlarda da. Çünkü benim için aşk, birini yalnızca güzel hissettirdiği için istemek değil. O insanı gerçeğiyle hayatında istemek. Aşırı duyarlı olman her konuda ilk başta zorlandığım bir şeydi. Bazen kendimce zorlanıyordum. Anlamıyordum. Sorunlar yaşadık. Bazen bu yüzden diken üstünde olduğum zamanlar oldu yanlış bişey mi söylerim acaba diye. Ama zamanla seni anladım, kabullendim, ve zamanla bu senin çok güzel ve tatlı özelliklerinden biri haline geldi benim için.
+
+Seninle beraberken sürekli kelebekler uçuşmuyor içimde.İyi ki de uçuşmuyor zaten. Düzenli anksiyeteden erken ölmek istemem.
+Ama senden ayrıldığımda seni özlüyorum.
+Bir süre göremeyeceğimi öğrendiğimde içim daralıyor. Daha zaman olmasına rağmen köye gidicek olmak görece sadece 2 hafta olsa bile düşündükçe üzülüyorum. Yanında olduğumda bazen hiçbir şey yapmadan oturmak bile yetiyor. Ve geleceği düşündüğümde seni kaybetmek istemediğimi biliyorum. Bazen acabalar yüzünden kaybetme korkuları yaşadığım oluyor.
+
+Benim için bunların toplamının adı aşk. Belki seninki başka türlüdür. Belki senin aşkının nasıl bir şey olduğunu sen bile henüz bilmiyorsundur.
+Belki bir gün bir anda anlarsın. Belki de hiçbir zaman işte tam olarak bu diyemezsin. Ama bunu bilmeni istiyorum:
+
+Ben senden bir duygunun ismini kanıtlamanı beklemiyorum. 
+
+Bana aşk kelimesini söylemen için seni zorlamak da istemiyorum. Ben senin bana karşı olan şeyinin adından çok, gerçeğiyle ilgileniyorum. Ve bir gün aşkın ne olduğunu gerçekten merak edersen benim cevabım çok basit olacak: Ben aşkı senden önce de tarif edebilirdim belki. Bir sürü güzel cümle kurardım. Ama sen hayatıma girdikten sonra tanımı biraz değişti. Şimdi aşk deyince aklıma büyük laflardan önce küçük şeyler geliyor.
+
+Bana yaptığın cookielerden kurabiyelerden vermen.
+
+Seni öperken gözlerimi kapamayıp karşılıklı gülmemiz.
+
+Utandığın zaman etrafı izleyip sessizleşmen ama sonrasında bunu yaptığını fark edip hemen sırıtıp bana bakman ve ortam uygunsa öpmen.
+
+Karşında seni arka arkaya çok fazla kırdıktan sonra pick melik yapıp karşında gözlerimin dolması.
+
+Ve bütün bunların arasında sen geliyorsun. O yüzden belki aşkın tanımını hala bilmiyorum. Ama kime baktığımda onu anlatmak istediğimi biliyorum.
+
+Sana.`,
     9: `Gün 9 için not buraya gelecek.`,
     10: `Gün 10 için not buraya gelecek.`,
     11: `Gün 11 için not buraya gelecek.`,
