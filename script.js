@@ -227,7 +227,35 @@ Karşında seni arka arkaya çok fazla kırdıktan sonra pick melik yapıp karş
 Ve bütün bunların arasında sen geliyorsun. O yüzden belki aşkın tanımını hala bilmiyorum. Ama kime baktığımda onu anlatmak istediğimi biliyorum.
 
 Sana.`,
-    9: `Gün 9 için not buraya gelecek.`,
+    9: `Bugün sana, senin haberin olmadan hayatımda ne kadar fazla yer kapladığından bahsetmek istiyorum.
+
+Bunu sürekli seni düşünüyorum demek için söylemiyorum. Zaten bazen gerçekten düşünmüyorum. Ya da en azından düşünmediğimi sanıyorum. Sonra gün içinde tamamen alakasız bir şey oluyor ve beynim bir şekilde yine sana bağlanıyor. Bir şarkı duyuyorum. Barış manço, opera, ajda pekkan vesaire. Direkt sen geliyorsun aklıma. Bir yerde bana en sevdiğim cipsler diye saydığın cipslerden görüyorum(patos rolls, doritos ketçaplı, nacho, mevsim yeşillikli vs.), bunu görse ağzı sulanırdı diye düşünüyorum.
+
+Bir çift görüyorum ve istemsizce bizi düşünüyorum. Bir yerden geçiyorum, buraya beraber gelsek güzel olurdu diyorum. Mangala gittigimiz yerde dilanla burda gece yıldızları izlerken piknik yapmak güzel olurdu diyorum. Film izlemeye gittiğimizde keşke dilanla buraya gelseydim diyorum.
+
+Bazen birisi senin kullandığın bir kelimeyi kullanıyor ve sadece o kelimeden seni hatırlıyorum. Bazen saçma bir video görüyorum ve daha videoyu bitirmeden sana atmak istiyorum.bHatta bazen bir şey komik olduğu için değil, senin ona vereceğin tepkiyi komik bulduğum için sana atmak istiyorum. Bazen bir reels görüyorum ve dilanla bunun üzerine konuşmak güzel tatlı ve komik olurdu diyorum. Bazen bu konuda tartışsak dilanı çok güzel sinir ederim diyorum. 
+
+Ve sen bunların hiçbirinden haberdar değilsin. Ben bir yerde yürürken aklıma geliyorsun. Antrenmanda bir şey oluyor, sana anlatsam ne diyeceğini düşünüyorum. Bir şey başarıyorum, sana söylemek istiyorum. Moralim bozuluyor, seninle konuşmak istiyorum. Güzel bir manzara görüyorum ve birkaç saniyeliğine yanında olsaydın nasıl olurdu diye düşünüyorum. Beykozdaki arkadaşımın yanına gidince sahil kenarı gördüm ve dilanla sahile gitmeliyiz kesinlikle diye düşündüm.
+
+Bence en garip tarafı şu:
+
+Bunların hiçbirini özellikle yapmıyorum. Kendime bugün onu düşüneyim demiyorum. Sen zaten kendiliğinden geliyorsun. Hayatımın içine küçük küçük dağılmışsın. Bir şarkının arasında varsın. Bir esprinin içinde varsın. Bir sokakta varsın. Bir kokuda, bir yemekte, bazen tek bir kelimede varsın. Ve bazen sana bunları söylemiyorum bile. O an geçiyor, ben başka bir şeye devam ediyorum. Sen de o sırada kendi hayatında bambaşka bir şey yapıyorsun. Ama bilmediğin bir yerde, bilmediğin bir anda birkaç saniyeliğine benim hayatımın içinden geçiyorsun.
+
+Bunu düşünmek bana çok garip geliyor. Çünkü bir zamanlar hayatımda hiç yoktun. Günlerimi geçiriyordum, aynı yerlere gidiyordum, aynı şarkıları dinliyordum, aynı şeyleri görüyordum. Ve bunların hiçbiri bana seni hatırlatmıyordu. Şimdi ise bazı şeyleri senden bağımsız düşünemiyorum.
+
+Mesela keloğlan görünce duyunca aklıma birlikte izlememiz geliyor. Cikolata yerken aklima sen geliyorsun cikolata benim için senle baya özdeşleşmiş. Her zenci emoji kullandigimda seni dusunuyorum. Bacak arama bazen yastık alıyorum aklima mlsf sen geliyosun 🙄. Keşke çiğköfte de yiyebilsek senle güzel olanından. sürekli aklıma geliyor.
+
+Sanırım bir insanın hayatına girmesi biraz böyle oluyor. Bir anda bütün hayatını değiştirmiyor. Sessizce bazı yerlere yerleşiyor. Önce bir şarkıya. Sonra bir sokağa. Sonra bir kelimeye. Sonra gününün küçücük anlarına. Ve bir süre sonra o insan yanında olmasa bile hayatının içinde onun bıraktığı küçük izlerle yaşamaya başlıyorsun.
+
+Seninle bunu çok yaşıyorum. Özellikle uzaktayken daha da fark edicem glb. Çünkü seni göremediğim halde günümün içinde sana rastlamaya devam ediceğime eminim.
+
+Ve sanırım insan birini gerçekten sevince hayatı tek başına yaşamayı biraz bırakıyor. Çünkü güzel bir şey olduğunda artık sadece bu çok güzel demiyorsun.bKeşke o da görseydi. diyorsun. Komik bir şey olduğunda yalnızca gülmüyorsun. Buna kesin şöyle tepki verirdi. diyorsun. Gelecekle ilgili bir şey düşündüğünde bazen cümlenin içine fark etmeden onu da koyuyorsun.
+
+Ben seni hayatımın içine bilinçli bir şekilde her yere yerleştirmedim. Sen kendin yerleştin. Ve işin güzel tarafı bunun zamanla yaşanmasını huzurlu bir şekilde izledim. Bunu istiyomuşum hayatımda. Senin gibi birisinin hayatımda olmasını. Her anımda.
+
+Senin haberin olmayan bütün o küçücük anlarda bile seni hatırlamak bana şunu gösteriyor:
+
+Sen artık yalnızca yanımdayken hayatımda olan biri değilsin. Yanımda olmadığında da hayatımın içindesin.`,
     10: `Gün 10 için not buraya gelecek.`,
     11: `Gün 11 için not buraya gelecek.`,
     12: `Gün 12 için not buraya gelecek.`,
