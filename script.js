@@ -256,7 +256,223 @@ Ben seni hayatımın içine bilinçli bir şekilde her yere yerleştirmedim. Sen
 Senin haberin olmayan bütün o küçücük anlarda bile seni hatırlamak bana şunu gösteriyor:
 
 Sen artık yalnızca yanımdayken hayatımda olan biri değilsin. Yanımda olmadığında da hayatımın içindesin.`,
-    10: `Gün 10 için not buraya gelecek.`,
+    10: `Bugün sana uzun uzun bir şey anlatmak yerine, sende sevdiğim şeyleri saymak istedim.
+
+Başta 10 tane yazayım dedim.
+
+Sonra düşündüm ki seni 10 maddeye sığdırmaya çalışmak bayağı haksızlık olur.
+
+O yüzden 100.
+
+Bazıları önemli şeyler olacak, bazıları aşırı küçük ve saçma.
+
+1. Hayata karşı çabanı.
+
+2. Bir şeyi gerçekten istediğinde onun için uğraşmanı.
+
+3. Yorulsan da tekrar deneyebilmeni.
+
+4. Yumruk atarken yumruğunla kafanın aynı anda gitmesini.
+
+5. Cesaretini.
+
+6. Güçlü görünmeye çalışmadığın zamanlardaki halini.
+
+7. Bana karşı gösterebildiğin hassas tarafını.
+
+8. Bir şey seni gerçekten heyecanlandırdığında konuşma şeklini.
+
+9. Heyecanlandığın bişeyi anlatırken çocuk gibi olmanı.
+
+10. Gülüşünü.
+
+11. Gerçekten güldüğünde yüzünün aldığı hali.
+
+12. Gülerken ela gözlerinin kısılmasını.
+
+13. Sesini.
+
+14. Bazı kelimeleri söyleme şeklini.
+
+15. Hayatım diyişini.
+
+16. Artık benle özleştirdiğin garip lakapları.
+
+17. Bana sinirlendiğinde kullandığın o tonu.
+
+18. Ciddi bir anda gülmeni tutamayışını.
+
+19. Utandığın zamanlarını.
+
+20. Utandığında gözlerini kaçırmanı.
+
+21. Gözlerini.
+
+22. Bakışlarını.
+
+23. Bana baktığın bazı anları.
+
+24. Gülerken göz göze gelmemizi.
+
+25. Saçlarını.
+
+26. Saçlarının dokusunu.
+
+27. Ellerini.
+
+28. Sarılmanı.
+
+29. Sana sarıldığımda hissettiğim huzuru.
+
+30. Yanımda olduğunda bazen hiçbir şey yapmamızın bile yetmesini.
+
+31. Keman çalmanı.
+
+32. Müzikle olan bağını.
+
+33. Bir şey öğrenirken gösterdiğin sabrı.
+
+34. Kemanla birlikte senin de hareket etmeni.
+
+35. Yazdığın şiirleri.
+
+36. Kelimelerle düşündüklerini anlatabilmeni.
+
+37. Yazdıklarının bazen bende uzun süre kalmasını.
+
+38. Dünyaya benim görmediğim yerlerden bakabilmeni.
+
+39. Bir konu hakkında gerçekten düşündüğünde ortaya çıkan seni.
+
+40. Zekanı.
+
+41. Merakını.
+
+42. Bir şeyi öğrenmek istediğinde soru sormanı.
+
+43. Kendi fikirlerinin olmasını.
+
+44. Her konuda benimle aynı fikirde olmamanı.
+
+45. Bana karşı çıkabildiğin zamanları.
+
+46. Haklı olduğunu düşündüğünde geri adım atmamanı.
+
+47. Bazen inanılmaz inatçı olmanı.
+
+48. O inadına bazen aşırı sinir olmamı.
+
+49. Ve biraz sakinleşince o tarafını da sevdiğimi fark etmemi.
+
+50. Kendin olmanı.
+
+51. Bana değer verdiğini hissettirdiğin küçük şeyleri.
+
+52. Bana dubai çikolatası almanı.
+
+53. Benim anlattığım küçücük şeyleri hatırlamanı.
+
+54. Postitim olmayışını cümle arasında söylememe rağmen unutmamanı.
+
+55. Beni merak etmeni.
+
+56. Günümü sormanı.
+
+57. Bir şeyim olduğunda anlamaya çalışmanı.
+
+58. Bazen sadece yanımda olmanı.
+
+59. Benimle saçmalayabilmeni.
+
+60. Birlikte yaptığımız aptalca şakaları.
+
+61. Bücür ve kangal lakaplarımızı.
+
+62. Sürekli gıcıklık yapıp öpim mi demeni.
+
+63. Bana attığın rastgele şeyleri.
+
+64. Seninle konuşurken konunun beş dakikada tamamen başka bir yere gidebilmesini.
+
+65. Çok ciddi bir konuşmanın ortasında bile saçmalayabilmemizi.
+
+66. Birbirimizi sinir etme biçimimizi.
+
+67. Sonra tekrar normale dönebilmemizi.
+
+68. Tartışsak bile birbirimizi anlamaya çalışmamızı.
+
+69. Zor zamanlarda tamamen kaçıp gitmemeni.
+
+70. Bizim için çabalamanı.
+
+71. Birlikte atlattığımız şeylerden sonra hala burada olmanı.
+
+72. İnsanların söylediklerine rağmen kendi hislerine değer vermeni.
+
+73. Birlikte tercih dönemini sen bunu okuduğunda eminim ki güzel bi şekilde atlatmamızı.
+
+74. Korktuğunda bile bazen devam edebilmeni.
+
+75. Güvensiz hissettiğin yanlarını benimle paylaşabilmeni.
+
+76. Kusursuz olmamanı.
+
+77. Kusursuz olmaya çalışırken bazen kendine fazla yüklenmeni.
+
+78. Ve o zamanlarda sana kendini benim gözümden göstermek istememi.
+
+79. Kendinde sevmediğin bazı şeyleri benim sevebilmemi.
+
+80. Bazen kendini gördüğünden çok daha güzel bir insan olmanı.
+
+81. Seni özlediğimde aklıma gelen küçücük detayları.
+
+82. Vanilyalı çiçekli cennet kokunu.
+
+83. Üç kalp şarkısının seni hatırlatmasını🙄.
+
+84. Odamda her yerde seni görmemi.
+
+85. Filtre kahvenin seni hatırlatmasını.
+
+86. Bir şey gördüğümde “bunu ona göstermeliyim” diye düşünmemi.
+
+87. Güzel bir yere gittiğimde seni de orada istememi.
+
+88. Gelecekle ilgili bir şey düşünürken bazen fark etmeden seni de içine koymamı.
+
+89. Seninle bu hayattaki herşeyi yapıp denemek istememi.
+
+90. Seninle daha yaşayamadığım şeyleri bile şimdiden merak etmemi.
+
+91. Seni ilk tanıdığım zamanki halini.
+
+92. Şimdi tanıdığım halini.
+
+93. Aradaki sürede bana gösterdiğin bütün farklı taraflarını.
+
+94. Hala bilmediğim bir sürü tarafının olmasını.
+
+95. Seni tanımaya devam edecek olmamı.
+
+96. Bazen beni deli etmeni.
+
+97. Ardından beş dakika sonra seni aşırı sevesimin gelmesini.
+
+98. Hayatıma girmiş olmanı.
+
+99. Hayatımda kalmanı istememi.
+
+100. Ve sanırım en çok da bütün bunların tek bir insanda toplanmış olmasını seviyorum.
+
+Seni.
+
+Bu listeyi yarın tekrar yazsam muhtemelen bazı maddeler değişirdi. Bir ay sonra yazsam yeni şeyler eklerdim. Bir yıl sonra yazsam belki 100 yetmezdi.
+
+Çünkü seni sevmemde güzel olan şeylerden biri de bu sanırım:
+
+Sende sevecek yeni bir şey bulmayı hala bitirmedim.`,
     11: `Gün 11 için not buraya gelecek.`,
     12: `Gün 12 için not buraya gelecek.`,
     13: `Gün 13 için not buraya gelecek.`,
