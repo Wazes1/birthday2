@@ -473,7 +473,86 @@ Bu listeyi yarın tekrar yazsam muhtemelen bazı maddeler değişirdi. Bir ay so
 Çünkü seni sevmemde güzel olan şeylerden biri de bu sanırım:
 
 Sende sevecek yeni bir şey bulmayı hala bitirmedim.`,
-    11: `Gün 11 için not buraya gelecek.`,
+    11: `Eğer bugün kendini iyi hissediyorsan, bu mektubu kapat. Cidden.
+
+Bunu kendini yetersiz, kötü, başarısız, çirkin, güçsüz ya da bir şekilde yetmiyormuş gibi hissettiğin bir gün için yazıyorum. Belki bugün tam olarak neye canının sıkıldığını bile bilmiyorsun.
+
+Belki bir şeyi istediğin gibi yapamadın. Belki kendini başkalarıyla kıyasladın. Belki aynaya baktın ve sevmedin. Belki bir şeyde başarısız olduğunu düşündün. Belki sadece yoruldun ve beynin sana yine acımasız davranmaya başladı.
+O yüzden bunu sana o an hatırlatmak istiyorum:
+
+Sen kendine baktığında gördüğün insanla, benim sana baktığımda gördüğüm insan her zaman aynı değil. Ve bazen keşke seni birkaç dakikalığına benim gözümden görebilseydin diyorum. Çünkü ben sana baktığımda sadece sevgilimi görmüyorum. Emek veren birini görüyorum.
+
+Bir şeyi istediğinde onun peşinden gitmeye çalışan birini.
+
+Korktuğu zamanlarda bile tamamen vazgeçmeyen birini.
+
+Kickboks için verdiğin çabayı.
+
+Bazen düştüğünde tekrar kalkabilen birini.
+
+Bazen kalkmak istemese bile yine de deneyen birini. Ve bunlar bana çok büyük geliyor. Sen belki yaptığın şeyleri normal görüyorsun. Ne var bundadiyorsun belki. Ama ben öyle görmüyorum.
+
+Mesela boluya gidip maça çıkman. Bunun sonucundan bağımsız olarak, bunu yapmaya çalışan kişiyi seviyorum ben. Seninle ilgili en çok saygı duyduğum şeylerden biri bu zaten.bSonucun kötü olduğunda bile seni sadece sonucunla değerlendiremiyorum.bÇünkü sen bir sınav sonucu değilsin. 
+
+Bir maç sonucu değilsin.
+
+Aynadaki görüntün değilsin.
+
+Bir günlük performansın değilsin.
+
+Birinin senin hakkında söylediği bir cümle de değilsin.
+
+Sen bunlardan çok daha fazlasısın. Ve biliyorum, bunu sana söylemek bazen hiçbir şeyi anında düzeltmeyecek. Bazen biri sana çok iyisin dediğinde insan direkt iyi hissetmiyor. Keşke o kadar kolay olsa. Ben de sana boş boş sen mükemmelsin, düşünme bunları demek istemiyorum.
+
+Çünkü mükemmel değilsin.
+
+Ben de değilim.
+
+Kimse değil.
+
+Zaten seni sevmemin sebebi kusursuz olman da değil. Hata yaptığın zamanlarını da gördüm. Sinirlendiğini gördüm. Kendine gereksiz yere yüklendiğin zamanları gördüm. Bazen inat ettiğini, bazen saçmaladığını, bazen beni deli ettiğini de gördüm . Ve bunların hiçbiri sana duyduğum saygıyı yok etmedi.
+
+Çünkü ben seni sadece bana iyi davrandığın zamanlardan ibaret görmüyorum. Senin kendi hayatında verdiğin mücadeleyi de görüyorum. Ailenin seni kötü etkilemelerine dayandın.
+
+ Kötü bir gün geçirmen bunu değiştirmiyor. Bir şeyde başarısız olman bunu senden almıyor. Kendini beğenmediğin bir gün bunu değiştirmiyor.nVe birilerinin seni anlamaması da bunu değiştirmiyor.
+
+Bir de sana kendimle ilgili bir şey söyleyeyim.bBen seninle sadece güzel olduğun için beraber değilim. sadece bana sevgi verdiğin için de değilim.
+
+Sende, senden tamamen bağımsız olarak saygı duyduğum şeyler var.
+
+Hayata karşı gösterdiğin çabaya saygı duyuyorum.
+
+Sürekli hayatının her alanında çabalıyor olman. Gördüğüm en güçlü, zeki, çalışkan kadınlardan birisin. Ve belki bunu sana yeterince söylemiyorum. Seni seviyorum, evet. Ama senden aynı zamanda etkileniyorum.nSana saygı duyuyorum.bSeninle gurur duyduğum zamanlar oluyor.
+
+Ve bazen sen kendinden şüphe ederken ben sana bakıp Bu kız kendinde gördüklerinin ne kadar azının farkında diye düşünüyorum.
+
+Bugün beynin sana senden şüphe etmen için yüz tane sebep veriyorsa, benim de karşısına birkaç tane sebep koymamı istiyorum.
+
+Bugün kötü olabilirsin.
+
+Bugün yorulabilirsin.
+
+Bugün yapamayabilirsin.
+
+Bugün kendini sevmekte bile zorlanabilirsin. Ama bugün hissettiğin şey, senin tamamın değil.
+
+Bunu unutma. Ve olur da bir gün gerçekten kendine inanamadığın bir noktaya gelirsen, benim sana inandığımı hatırla. Kendini benim gözümden görmek zorunda değilsin.
+
+Ama en azından bir ihtimal olarak aklında tut:
+
+Belki kendine karşı biraz haksızsın.
+
+Belki sandığından daha güçlüsün.
+
+Belki sandığından daha yeteneklisin.
+
+Belki sandığından daha güzelsin. Ve belki bugün kendinde bulamadığın bazı şeyleri, seni seven insanlar hala çok net görebiliyor. Ben görüyorum. O yüzden bu mektubu kapatmadan önce senden tek bir şey istiyorum.
+
+Kendine bugün hemen inanmak zorunda değilsin. Sadece kendinden tamamen vazgeçme.
+
+Gerisini yarın tekrar düşünürsün.
+
+Ben buradayım.`,
     12: `Gün 12 için not buraya gelecek.`,
     13: `Gün 13 için not buraya gelecek.`,
     14: `Gün 14 için not buraya gelecek.`,
