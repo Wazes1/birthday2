@@ -553,7 +553,63 @@ Kendine bugün hemen inanmak zorunda değilsin. Sadece kendinden tamamen vazgeç
 Gerisini yarın tekrar düşünürsün.
 
 Ben buradayım.`,
-    12: `Gün 12 için not buraya gelecek.`,
+    12: `Bugün sana gelecekle ilgili bir şey yazmak istiyorum. 
+
+Ama büyük bir gelecekten değil. Evlerden, evlilikten, yıllardan, çok büyük planlardan bahsetmeyeceğim. Aklımdaki şey çok daha küçük. Seninle geçireceğim sıradan bir gün. Mesela bir gün buluşmuşuz. Özel bir gün değil. Doğum günü değil, yıldönümü değil, kutlanacak hiçbir şey yok. Sadece ikimizin de boş olduğu normal bir gün.
+
+Önce beraber bir kitapçıya girmişiz. Muhtemelen sen bir yerlere dalmışsın, ben de bir süre kendi baktığım şeylere bakıp sonra seni bulmaya gelmişim.
+
+Sen bana bir kitap gösteriyorsun.
+
+Bir roman.
+
+Ben büyük ihtimalle kitabın kendisinden çok senin onu anlatırkenki halini izliyorum. Sonra sana tamam artık al şunu falan diyorum. Belki bir kafeye geçiyoruz.bSen yanında getirdiğin kitabı açıyorsun. Ben de kendi işimle uğraşıyorum. Konuşmak zorunda bile değiliz. Aynı masadayız sadece. Arada sen okuduğun bir yerden kafanı kaldırıp bana bir şey söylüyorsun. Ben sana bir şey gösteriyorum. Sonra tekrar kendi dünyalarımıza dönüyoruz. Ama birbirimizin yanındayız.
+
+Garip şekilde gelecekle ilgili düşündüğüm şeylerin içinde en çok böyle anlar hoşuma gidiyor. 
+
+Çünkü seninle sadece heyecanlı şeyler yaşamak istemiyorum. Sadece özel buluşmalarımız olsun istemiyorum.
+
+Sadece birbirimizi özledikten sonra kavuştuğumuz günler olsun istemiyorum. Seni hayatımın normal tarafında da istiyorum. Birlikte hiçbir şey yapmadığımız günlerde. Canımızın sıkıldığı günlerde. İkimizin de yorgun olduğu günlerde. Birimizin konuştuğu, diğerinin sadece dinlediği günlerde. Hatta bazen yan yana olup saatlerce doğru düzgün konuşmadığımız günlerde bile.
+
+Sonra belki sen kemanını çıkarıyorsun. Ben senden bir şey çalmanı istiyorum.
+
+Dönülmez akşamın ufkundayız mesela.
+
+Muhtemelen şunu çalsana diye seni darlıyorum. Sen de ya çalıyorsun ya da bana söyleniyorsun. Ben bir yerde oturup seni dinliyorum.
+
+Belki çok iyi çalıyorsun. Belki bir yerde hata yapıyorsun ve baştan başlıyorsun. Hiç fark etmez. Ben zaten konser dinlemiyorum. Seni dinliyorum. Odağım sensin 😛.
+
+Sonra dışarı çıkıyoruz. Bir süre yürüyoruz. Belki hava hafif soğuk. Belki hava güzel. Belki hiçbir özelliği olmayan, yüz kere geçtiğimiz bir sokaktayız.
+
+Belki bir sahil kenarı. Bir şeyler konuşuyoruz. Sonra konu tamamen saçma bir yere geliyor.
+
+Muhtemelen sen bana bir şey anlatıyorsun, ben seni sinir etmek için bilerek başka bir şey söylüyorum. Sen bana kızıyorsun. Ben gülüyorum.bSonra sen de gülüyorsun. Ve gün böyle bitiyor.
+
+Büyük hiçbir şey olmadı. Hayatımızı değiştirecek hiçbir şey yaşamadık. Fotoğrafını yıllarca saklayacağımız inanılmaz bir an bile olmayabilir. Sadece normal bir gün. 
+
+Ama ben galiba tam olarak bunu istiyorum. Çünkü şu an seninle geçirdiğim zamanların çoğu şartlara bağlı.
+
+Ne zaman görüşebiliriz? Ne kadar kalabiliriz?Kim görür? Nereye gidebiliriz? Ne zaman tekrar görüşeceğiz? Bazen seni görmek bile plan yapılması gereken bir şey haline geliyor.
+
+O yüzden geleceği düşündüğümde beni en çok heyecanlandıran şeylerden biri, bir gün seni görmenin bu kadar zor olmak zorunda olmaması.
+
+Seni hiç planlanmamış bir anda, belki uzun belki kısa süresi fark etmeksizin, sırf özledim diye yanına gelip, görebilmek istiyorum. Buluşabilmek istiyorum. Bi parka oturup çekirdek kola yapmak, ara sokaklarda bos bos dolasmak. Dışarı çıkıp bir yönümüz ya da amacımız olmamasına rağmen olayların spontane gelişmesi. Hayalim.
+
+Bir gün Bugün ne yapıyoruz? diye sorabilmek. Ve cevabımızın bazen gerçekten “hiçbir şey” olması.bSonra o hiçbir şeyi beraber yapmak. Bence bir insanla sadece büyük anları istemek kolay. Tatile gitmek, güzel yerlere gitmek, özel günleri kutlamak, unutulmaz şeyler yaşamak. Bunları seninle tabii ki istiyorum.
+
+Ama seni gerçekten hayatımda istediğimi düşündüğüm yer bunlar değil. Ben seninle markete gitmeyi de istiyorum. Bir şey almaya çıkıp iki saat dışarıda kalmayı da. Sen kitap okurken yanında kendi işimi yapmayı da. Antrenmandan çıkıp yorgun argın bir şeyler yemeyi de.
+
+Antrenman çıkışı birlikte çiğköfte yemek istiyorum.
+
+Birbirimize anlatacak önemli hiçbir şeyimiz olmadığı günleri bile istiyorum. Çünkü hayatın çok büyük bir kısmı zaten böyle. Büyük anlardan değil, sıradan günlerden oluşuyor.bVe eğer bir gün hayatımın sıradanlığını biriyle paylaşacaksam.
+
+O kişinin sen olmasını isterim.
+
+Belki yıllar sonra bugün yazdığım bu mektubu okuyup hayal ettiğim günün ne kadar basit olduğuna güleriz. Belki de gerçekten bir gün kitapçıdan çıkarız, sen yanında yeni aldığın kitabı taşırsın, bir yerlerde otururuz, yürürüz ve eve dönerken günün ne kadar normal geçtiğini bile düşünmeyiz. Ama ben o gün geldiğinde muhtemelen içimden şunu geçiririm:
+
+Bir zamanlar seninle böyle sıradan bir gün yaşayabilmeyi bile hayal ediyordum. Şimdi içindeyim.
+
+Seninle sadece unutamayacağım günleri değil, unutabileceğimiz kadar sıradan günleri de istiyorum.`,
     13: `Gün 13 için not buraya gelecek.`,
     14: `Gün 14 için not buraya gelecek.`,
   };
