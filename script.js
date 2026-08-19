@@ -610,7 +610,69 @@ Belki yıllar sonra bugün yazdığım bu mektubu okuyup hayal ettiğim günün 
 Bir zamanlar seninle böyle sıradan bir gün yaşayabilmeyi bile hayal ediyordum. Şimdi içindeyim.
 
 Seninle sadece unutamayacağım günleri değil, unutabileceğimiz kadar sıradan günleri de istiyorum.`,
-    13: `Gün 13 için not buraya gelecek.`,
+    13: `Bunu açtığında beni muhtemelen beni özledin. Umarım yani. Özledin dimi 🥺. Özlediğin zamanlar bidaha okursun özlemediysen de. Bunu da özlediğin zamanlarda açarsın.
+
+Ama gerçekten beni özlediğin bir anda okuyorsan, önce şunu bilmeni istiyorum. Muhtemelen sen bunları hissederken:
+
+Ben de seni özlüyorum.
+
+Hem de sadece seni görmek anlamında değil. Yanında olmayı özlüyorum.
+
+Sana dokunabilmeyi, sarılabilmeyi, yüzüne yakından bakabilmeyi, yan yana yürümeyi, sesini telefondan değil hemen yanımdan duymayı özlüyorum.
+
+Bazen insan birini özlediğinde neyi özlediğini tam olarak anlatamıyor. Çünkü tek bir şey değil. Senin sadece yüzünü özlemiyorum mesela.
+
+Kaşının üstündeki yaraya bakmayı özlüyorum.
+
+Sana sarıldığımda nasıl hissettiğimi özlüyorum. Yan yana yürürken aramızda geçen saçma konuşmaları özlüyorum. Bir şey söylediğimde yüzünde oluşan ifadeyi özlüyorum. Bana sinirlendiğinde bile seni özlüyorum. Gerçi bunu fazla romantikleştirmeyeyim, bazı sinirlendiğin anlarda uzakta olmak belki fiziksel güvenliğim açısından avantajlı olabilir.
+
+Ama şu an yanında olsaydım ne yapardım biliyor musun?
+
+Muhtemelen ilk birkaç saniye hiçbir şey söylemezdim. Sadece sana sarılırdım.bÖyle hızlıca sarılıp bırakmak da değil. Bir süre bırakmazdım.bÇünkü bazen söylemek istediğim şeylerin hepsini tek bir sarılma daha iyi anlatıyor gibi geliyor. Sonra muhtemelen yüzüne bakardım.bBelki saçınla oynardım. Sonra alnından kocaman öperdim. Ve sana çok özledim seni derdim.
+
+Muhtemelen bunu zaten yüz kere söylemiş olurdum ama bir kere daha söylerdim. Sonra hiçbir büyük plan yapmak istemezdim.bBir banka otursak yeterdi.bBiraz yürüsek yeterdi. Bir şeyler alsak, bir yerde otursak, hiçbir şey yapmasak bile yeterdi. Başka şeyler de olsa güzel olurdu 🤭.
+
+Çünkü seni özlediğimde fark ettiğim şeylerden biri şu:
+
+Ben senden sürekli bir şey yapmak istemiyorum. Bazen sadece varlığını istiyorum. Yanımda olduğunu bilmek yetiyor. Konuşmak zorunda bile değiliz.bSen kendi şeyinle uğraş.bBen kendi şeyimle uğraşayım. Arada sana bakayım.bSen ne bakıyosun de.
+
+Ben de büyük ihtimalle hiç diyeyim. Halbuki gayet bir şey bakıyorum. Sana bakıyorum. Ve bunu şu an yapamamak düşündüğümden daha fazla koyuyor bana. Çünkü insan birine alışınca sadece yaptığı şeylere değil, varlığına da alışıyormuş.
+
+Ben sana alıştım. Hayatımın belli yerlerinde seni görmeye alıştım. Sesine alıştım. Mesajlarına alıştım. Sana bir şey anlatmaya alıştım. Bir şey olduğunda aklıma gelmene alıştım. Ve şimdi arada mesafe olunca bunların hepsinin yerini daha fazla hissediyorum. Belki sen de şu an bu mektubu tam olarak o yüzden okuyorsun. Belki bugün biraz fazla özledin. Umarım. Belki bir şey seni bana götürdü. Belki de hiçbir şey olmadı. Sadece bir anda yanımda olsa keşke dedin. Umarım demişsindir. İnş yani. Boşa yazmış olmim🥺 .
+
+Eğer öyleyse keşke olabilseydim. Gerçekten. Şu an bu kağıdın yerine ben olsam keşke. Mektubu kenara koyup sana sarılabilsem.
+
+Keşke sana yanındayım diyebilseydim.
+
+Ama olamıyorsam, bari bunu bırakmış olayım. Çünkü sen bu satırları okurken ben o an nerede olacağımı bilmiyorum. Ne yapıyor olacağımı bilmiyorum. Belki uyuyorum. Belki az önce senle yazışıyordum. Belki seni düşünüyorum.
+
+Ama şundan emin olabilirsin:
+
+Senin beni özlediğin o anda yanında olabilseydim, başka bir yerde olmayı tercih etmezdim.bVe sana bir şey daha söylemek istiyorum. Beni özlediğinde üzülmeni istemiyorum demeyeceğim.
+
+Çünkü bence özlemek biraz üzüyor zaten. Başka türlüsü mümkün değil. Birini yanında istediğin halde yanında değilse insanın içine oturuyor. Ben de yaşıyorum bunu.
+
+Ama özlediğinde şunu hatırla:
+
+Bu mesafe bizim aramızdaki şey değil. Sadece şu an aramızdaki kilometre.bİkisi aynı şey değil. Sen hala benim hayatımdasın. Ben hala senin hayatındayım. Birbirimizi göremediğimiz günler, birlikte yaşadığımız şeyleri silmiyor. Sarılmadığımız günler, sana sarılmak istememi azaltmıyor. Konuşamadığımız saatler, sana anlatacaklarımı yok etmiyor. Ve seni özlemem seni benden uzaklaştırmıyor. Tam tersine, bazen hayatımdaki yerini daha fazla fark ettiriyor.
+
+Kokunu özlüyorum uzak kalınca.
+
+Şunu da bil:
+
+Kavuştuğumuzda senden çok komplike bir şey istemiyorum. İlk istediğim şey muhtemelen sana uzun uzun sarılmak olacak. Sonra yüzüne bakacağım. Sonra muhtemelen yine sarılacağım. Sonra bir daha. Evet, bir süre kişisel alan kavramını kaybedebilirsin. Şimdiden özür dilerim. Ama bütün bunların altında söylemek istediğim çok basit bir şey var. Beni özlediğinde bunu tek başına yaşadığını düşünme.
+
+Bir yerlerde ben de seni özlüyorum.bBelki aynı saniyede değil.bBelki aynı şekilde değil.bAma aynı insana doğru.
+
+Sana.
+
+Ve bu mektubu gerçekten beni çok özlediğin bir anda açtıysan son bir şey yap:
+
+Gözlerini birkaç saniye kapat.nBeni karşında düşün.bYanına geldiğimi düşün.nHiçbir şey söylemeden sana sarıldığımı düşün.
+
+Ve sana şunu söylediğimi düşün:
+
+Az kaldı bebeğim sana gelicem. Çünkü bu sefer seni özlemek bir son değil. Kavuşana kadar geçen zaman sadece.`,
     14: `Gün 14 için not buraya gelecek.`,
   };
 
