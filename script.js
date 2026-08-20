@@ -731,7 +731,7 @@ KUPON
 Kullanım tarihi: Kavuştuğumuz andan itibaren.
 Son kullanma tarihi: Yok.
 
-Ve evet, kuponun şartlarını ben yazdığım için itiraz hakkın bulunmamaktadır.
+Ve evet, kuponun şartlarını ben yazdığım için itiraz hakkın bulunmamaktadır.😛
 
 Şaka bir yana, ilk gün senden uzaklaşırken içimde muhtemelen garip bir boşluk olacak. Sen bu son nota geldiğinde ise aynı boşluğu hissetmiyor olacağımı umuyorum. Onun yerine heyecan olacak. Çünkü artık senden uzaklaşmayı değil, sana geri gelmeyi düşünüyor olacağım.
 
