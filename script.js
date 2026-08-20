@@ -673,7 +673,75 @@ Gözlerini birkaç saniye kapat.nBeni karşında düşün.bYanına geldiğimi d�
 Ve sana şunu söylediğimi düşün:
 
 Az kaldı bebeğim sana gelicem. Çünkü bu sefer seni özlemek bir son değil. Kavuşana kadar geçen zaman sadece.`,
-    14: `Gün 14 için not buraya gelecek.`,
+    14: `Ve geldik son nota.
+
+Bunu yazarken bile garip geliyor çünkü bu kutuyu hazırlarken 14 gün bana inanılmaz uzun geliyor. Sen bunu okurken ise o günlerin çoğunu geride bırakmış olacağız.
+
+İlk notta sana mesafeden bahsetmiştim. Senden uzaklaşan şeyin sadece bulunduğum yer olacağını, sana karşı hissettiklerimin değişmeyeceğini söylemiştim. Sonra günler boyunca sana farklı farklı şeyler anlattım. Sende sevdiğim tarafları, seni nasıl gördüğümü, seni özlediğimde aklımdan geçeceğini düşündüğüm şeyleri, gelecekte seninle yaşamak istediğim sıradan günleri.
+
+Ve sen bütün bunların sonuna geldiğinde sana söylemek istediğim şey muhtemelen çok daha basit olacak: Seni görmek için sabırsızlanıyorum.
+
+Sen bunu okurken kavuşmamıza tam olarak ne kadar kalacağını bilmiyorum ama artık günleri sayarken sayı küçülüyor olacak. Nedense son birkaç gün bana ilk günlerden bile daha uzun gelecekmiş gibi hissediyorum. İnsan bir şeye yaklaştıkça daha sabırsız oluyor galiba.
+
+Şimdiden seni ilk gördüğüm anı düşünüyorum. Nerede olacağız bilmiyorum. Sen beni önce mi göreceksin, ben mi seni göreceğim bilmiyorum. Muhtemelen sana doğru yürürken içimden yüz tane şey geçecek ama yanına gelince hiçbirini söylemeyip direkt sana sarılacağım. Ya da eve gelirsin ve sarılmaktan bırakamam seni.
+
+Ve büyük ihtimalle gereğinden biraz fazla uzun sarılacağım. Şimdiden söylüyorum, kaçış yok. 14 günün belki daha da fazlasının sarılma borcu olacak.
+
+Sonra biraz geri çekilip yüzüne bakmak isteyeceğim. Çünkü fotoğraflarını görmek başka, görüntülü konuşmak başka ama seni gerçekten karşımda görmek bambaşka olacak. Yüzündeki ifadeyi, gözlerini, konuşurken yaptığın küçücük hareketleri tekrar görmek isteyeceğim.
+
+Saçlarını okşayıp kokunu çekmek isteyeceğime eminim uzun zaman sonra.
+
+Belki sana uzun uzun ne kadar özlediğimi anlatırım. Belki de anlatamam. Muhtemelen "özledim seni" diyip tekrar sarılırım. Zaten bu 14 not boyunca yeterince konuşmuş olacağım, biraz da yüz yüze susma hakkım var bence.
+
+Bu iki hafta bana muhtemelen sadece seni ne kadar özlediğimi göstermeyecek. Hayatımın içinde ne kadar fazla yer kapladığını da gösterecek. Çünkü seni göremediğim günlerde bile günümün içinde olacağını biliyorum. Bir şey gördüğümde muhtemelen aklıma geleceksin, bir şey yaşadığımda sana anlatmak isteyeceğim, güzel bir şey olduğunda keşke yanımda olsan diyicem. Bazen hiçbir şey olmadan bile seni düşünücem.
+
+Belki bu notları hazırlarken en çok istediğim şey de buydu. Sen bu günleri geçirirken yanında fiziksel olarak olamasam bile sana küçük küçük bir şeyler bırakmak. Beni özlediğinde okuyacağın, kendinden şüphe ettiğinde açacağın, bazen duygulanacağın, bazen de bu salak bana neler yazmış diye güleceğin şeyler.
+
+Ama hepsinde aynı kişi var: sen.
+
+Çünkü bunların hiçbirini yapmak zorunda değildim. Her gün için oturup bir şeyler yazmak zorunda değildim. Ama yapmak istedim. Seni sevmenin bende oluşturduğu şeylerden biri de bu sanırım. Sana iyi gelecek bir şey yapmak, sen yanımda yokken bile sana ulaşabilecek küçücük bir şey bırakmak istemek.
+
+Ve sen bu sayfanın sonuna geldiğinde bile sana anlatmak istediklerimin sonuna gelmiş olmıyıcam. Hatta muhtemelen daha yeni başladığımı hissedicem. Çünkü seni tanıdıkça söylemek istediğim yeni şeyler çıkıyor. Yeni bir yanını görüyorum, yeni bir anımız oluyor, senin hakkında başka bir şey öğreniyorum ve kafamda yine sana söylemek istediğim yeni bir cümle oluşuyor.
+
+O yüzden bu son mektup aslında pek de son değil. Sadece bundan sonrasını yazmak yerine yanında söylemek istiyorum. Yüzüne bakarak, elini tutarak, belki bir yerde yürürken, belki bir bankta otururken, belki de hiçbir özelliği olmayan sıradan bir günde.
+
+Çünkü bu 14 gün boyunca sana yazdığım her şeyden sonra yapmak isteyeceğim şey çok basit: Seninle zaman geçirmek.
+
+Birlikte sinemaya gitmek istiyorum.
+
+Mesela bime girelim. Sonra bir şeyler alıp yürüyelim, bir yerde oturalım. Bana bu 14 nottan hangisini en çok sevdiğini anlat. Hangisinde duygulandın, hangisinde güldün, hangisinde bu çocuk beni seviyor dedin, hepsini bilmek istiyorum.
+
+Sonra bana sen anlat. Bu iki haftada neler yaptın, neleri düşündün, ben yokken neler oldu. Saçma detayları bile. Çünkü seni özlerken en çok fark edeceğim şeylerden birinin, senin hayatının küçük ayrıntılarını bile bilmek istediğim olacağını düşünüyorum.
+
+Belki de hiçbirini yapmayız, sadece yürürüz. Hiç fark etmez. Çünkü planın kendisinden çok, sonunda tekrar yan yana olduğumuz bir günün içinde olmak istiyorum.
+
+Bu site burada bitiyor bebeğim ama sana anlatmak istediklerim bitmiyor. Bundan sonraki cümleyi mektupla değil, yanında söylemek istiyorum.
+
+O yüzden sana son bir şey bırakıyorum. Bu sefer okuman için değil, birlikte yapmamız için:
+
+KUPON
+
+1 adet uzun sarılma — süre sınırı yok.
+1 adet beraber kitapçı gezisi.
+1 adet uzun yürüyüş.
+1 adet sinemaya gitme.
+1 adet senin seçtiğin şiiri karşılıklı okuma.
+1 adet benden istediğin herhangi bir küçük plan.
+
+Kullanım tarihi: Kavuştuğumuz andan itibaren.
+Son kullanma tarihi: Yok.
+
+Ve evet, kuponun şartlarını ben yazdığım için itiraz hakkın bulunmamaktadır.
+
+Şaka bir yana, ilk gün senden uzaklaşırken içimde muhtemelen garip bir boşluk olacak. Sen bu son nota geldiğinde ise aynı boşluğu hissetmiyor olacağımı umuyorum. Onun yerine heyecan olacak. Çünkü artık senden uzaklaşmayı değil, sana geri gelmeyi düşünüyor olacağım.
+
+Az kalmış olacak.
+
+Ve seni tekrar gördüğümde bu 14 günün sonunda yapmak istediğim ilk şey muhtemelen çok basit olacak:
+
+Sarılacağım sana.
+
+Gerisini yanında anlatırım.`,
   };
 
   function isUnlocked(day) {
